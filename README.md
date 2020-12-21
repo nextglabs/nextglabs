@@ -138,6 +138,8 @@ This is the place where I opensource stuff and break things :rofl:
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimize your color names for Dark Mode](https://medium.com/swlh/optimize-your-color-names-for-dark-mode-c422469b7f19?source=rss-f2412994cf86------2)
+- [Automatic Changelog Generation for Your JavaScript Library or Project](https://medium.com/swlh/automatic-changelog-generation-for-your-javascript-library-or-project-3f5c80c10aa7?source=rss-f2412994cf86------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest StackOverflow Activity
