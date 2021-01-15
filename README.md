@@ -145,11 +145,11 @@ This is the place where I opensource stuff and break things :rofl:
 ## Latest StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Typescript prop discrimination in react functional component](https://stackoverflow.com/questions/65728659/typescript-prop-discrimination-in-react-functional-component)
 - [Answer by Bassem for How to change react-select tag border radius](https://stackoverflow.com/questions/65244487/how-to-change-react-select-tag-border-radius/65247856#65247856)
 - [How to change react-select tag border radius](https://stackoverflow.com/questions/65244487/how-to-change-react-select-tag-border-radius)
 - [Answer by Bassem for Changing height of react-select component](https://stackoverflow.com/questions/54218351/changing-height-of-react-select-component/65241408#65241408)
 - [Answer by Bassem for Generic props : why are these types incompatible?](https://stackoverflow.com/questions/65190325/generic-props-why-are-these-types-incompatible/65190475#65190475)
-- [Answer by Bassem for Material-table - if no data show message](https://stackoverflow.com/questions/63311224/material-table-if-no-data-show-message/64877689#64877689)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
