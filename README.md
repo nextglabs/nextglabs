@@ -145,11 +145,11 @@ This is the place where I opensource stuff and break things :rofl:
 ## Latest StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [How to create Class Enums in Javascript/Typescript](https://stackoverflow.com/questions/65906065/how-to-create-class-enums-in-javascript-typescript)
 - [Answer by Bassem for How do you test for the non-existence of an element using jest and react-testing-library?](https://stackoverflow.com/questions/52783144/how-do-you-test-for-the-non-existence-of-an-element-using-jest-and-react-testing/65848573#65848573)
 - [Is a typescript module augmentation automatically exported in a component library?](https://stackoverflow.com/questions/65783448/is-a-typescript-module-augmentation-automatically-exported-in-a-component-librar)
 - [Typescript prop discrimination in react functional component](https://stackoverflow.com/questions/65728659/typescript-prop-discrimination-in-react-functional-component)
 - [Answer by Bassem for How to change react-select tag border radius](https://stackoverflow.com/questions/65244487/how-to-change-react-select-tag-border-radius/65247856#65247856)
-- [How to change react-select tag border radius](https://stackoverflow.com/questions/65244487/how-to-change-react-select-tag-border-radius)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
