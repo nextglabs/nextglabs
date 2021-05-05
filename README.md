@@ -146,7 +146,7 @@ This is the place where I opensource stuff and break things :rofl:
 ## Latest StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-- [Custom Typescript Type Declarations Not Exposed in Library](https://stackoverflow.com/questions/67408876/custom-typescript-type-declarations-not-exposed-in-library)
+- [Custom Typescript Module Declarations Not Exposed in Library](https://stackoverflow.com/questions/67408876/custom-typescript-module-declarations-not-exposed-in-library)
 - [Answer by Bassem for Material-UI: The key `caption` provided to the classes prop is not implemented in ForwardRef(TablePagination)](https://stackoverflow.com/questions/66178076/material-ui-the-key-caption-provided-to-the-classes-prop-is-not-implemented-i/66178425#66178425)
 - [How to create Class-based Enums in Javascript/Typescript](https://stackoverflow.com/questions/65906065/how-to-create-class-based-enums-in-javascript-typescript)
 - [Answer by Bassem for How do you test for the non-existence of an element using jest and react-testing-library?](https://stackoverflow.com/questions/52783144/how-do-you-test-for-the-non-existence-of-an-element-using-jest-and-react-testing/65848573#65848573)
