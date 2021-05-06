@@ -146,11 +146,11 @@ This is the place where I opensource stuff and break things :rofl:
 ## Latest StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Bassem for What does the double ampersand selector '&&' do (overriding root class using makeStyles in Material-UI React)?](https://stackoverflow.com/questions/67417283/what-does-the-double-ampersand-selector-do-overriding-root-class-using-mak/67419915#67419915)
 - [Custom Typescript Module Declarations Not Exposed in Library](https://stackoverflow.com/questions/67408876/custom-typescript-module-declarations-not-exposed-in-library)
 - [Answer by Bassem for Material-UI: The key `caption` provided to the classes prop is not implemented in ForwardRef(TablePagination)](https://stackoverflow.com/questions/66178076/material-ui-the-key-caption-provided-to-the-classes-prop-is-not-implemented-i/66178425#66178425)
 - [How to create Class-based Enums in Javascript/Typescript](https://stackoverflow.com/questions/65906065/how-to-create-class-based-enums-in-javascript-typescript)
 - [Answer by Bassem for How do you test for the non-existence of an element using jest and react-testing-library?](https://stackoverflow.com/questions/52783144/how-do-you-test-for-the-non-existence-of-an-element-using-jest-and-react-testing/65848573#65848573)
-- [Is a typescript module augmentation automatically exported in a component library?](https://stackoverflow.com/questions/65783448/is-a-typescript-module-augmentation-automatically-exported-in-a-component-librar)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
