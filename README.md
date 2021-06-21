@@ -147,11 +147,11 @@ This is the place where I opensource stuff and break things :rofl:
 ## Latest StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-- [Answer by Bassem for Typescript empty object for a typed variable](https://stackoverflow.com/questions/45339065/typescript-empty-object-for-a-typed-variable/67918342#67918342)
 - [Answer by Bassem for How to render with router as well as with Redux for react-testing-library?](https://stackoverflow.com/questions/67017951/how-to-render-with-router-as-well-as-with-redux-for-react-testing-library/67780604#67780604)
 - [Answer by Bassem for How make request to MirajeJS js only when I need it](https://stackoverflow.com/questions/67268380/how-make-request-to-mirajejs-js-only-when-i-need-it/67746450#67746450)
 - [Answer by Bassem for How to redirect MirajeJS to a real request if there is no such route in mocks?](https://stackoverflow.com/questions/67456650/how-to-redirect-mirajejs-to-a-real-request-if-there-is-no-such-route-in-mocks/67746437#67746437)
 - [Expose Typescript type declarations for untyped package](https://stackoverflow.com/questions/67420880/expose-typescript-type-declarations-for-untyped-package)
+- [Answer by Bassem for What does the double ampersand selector '&&' do (overriding root class using makeStyles in Material-UI React)?](https://stackoverflow.com/questions/67417283/what-does-the-double-ampersand-selector-do-overriding-root-class-using-mak/67419915#67419915)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
