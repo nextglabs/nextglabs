@@ -138,6 +138,7 @@ This is the place where I opensource stuff and break things :rofl:
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Dark Mode Toggle Micro Interaction Like a Pro](https://medium.com/next-generation-web/create-a-dark-mode-toggle-micro-interaction-like-a-pro-279305e9c2?source=rss-f2412994cf86------2)
 - [How to Build & Test React-Query Components in Typescript](https://medium.com/next-generation-web/how-to-build-test-react-query-components-in-typescript-9527dc9924da?source=rss-f2412994cf86------2)
 - [Avoid Redux in your Enterprise-Level Web Applications](https://medium.com/swlh/avoid-redux-in-your-enterprise-level-web-applications-a82f2f165068?source=rss-f2412994cf86------2)
 - [Optimize your color names for Dark Mode](https://medium.com/swlh/optimize-your-color-names-for-dark-mode-c422469b7f19?source=rss-f2412994cf86------2)
