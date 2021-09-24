@@ -148,11 +148,11 @@ This is the place where I opensource stuff and break things :rofl:
 ## Latest StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Bassem for React hide menu and footer in a specific page](https://stackoverflow.com/questions/69315984/react-hide-menu-and-footer-in-a-specific-page/69316207#69316207)
 - [Answer by Bassem for React JS sorting issue](https://stackoverflow.com/questions/69315921/react-js-sorting-issue/69315999#69315999)
 - [Answer by Bassem for Select does not work when combined with Radio in Chakra-UI](https://stackoverflow.com/questions/68833877/select-does-not-work-when-combined-with-radio-in-chakra-ui/68889858#68889858)
 - [Answer by Bassem for Is there a way to make chakra ui MenuList items always visible](https://stackoverflow.com/questions/67863096/is-there-a-way-to-make-chakra-ui-menulist-items-always-visible/68339460#68339460)
 - [Answer by Bassem for How to render with router as well as with Redux for react-testing-library?](https://stackoverflow.com/questions/67017951/how-to-render-with-router-as-well-as-with-redux-for-react-testing-library/67780604#67780604)
-- [Answer by Bassem for How make request to MirajeJS js only when I need it](https://stackoverflow.com/questions/67268380/how-make-request-to-mirajejs-js-only-when-i-need-it/67746450#67746450)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
