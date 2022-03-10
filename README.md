@@ -138,11 +138,11 @@ This is the place where I opensource stuff and break things :rofl:
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get fired as a Software Engineer, fast.](https://nextglabs.medium.com/how-to-get-fired-as-a-software-engineer-fast-e99e6fe0d908?source=rss-f2412994cf86------2)
 - [We choose React &amp; TypeScript not because they’re easy, but because they’re hard.](https://medium.com/next-generation-web/we-choose-react-typescript-not-because-theyre-easy-but-because-they-re-hard-d198a04b2bc6?source=rss-f2412994cf86------2)
 - [Style Guides, Design Systems &amp; Component Libraries — Explained](https://medium.com/next-generation-web/style-guides-design-systems-component-libraries-explained-118e79476305?source=rss-f2412994cf86------2)
 - [Create a Dark Mode Toggle Micro Interaction Like a Pro](https://medium.com/next-generation-web/create-a-dark-mode-toggle-micro-interaction-like-a-pro-279305e9c2?source=rss-f2412994cf86------2)
 - [How to Build &amp; Test React-Query Components in Typescript](https://medium.com/next-generation-web/how-to-build-test-react-query-components-in-typescript-9527dc9924da?source=rss-f2412994cf86------2)
-- [Avoid Redux in your Enterprise-Level Web Applications](https://medium.com/swlh/avoid-redux-in-your-enterprise-level-web-applications-a82f2f165068?source=rss-f2412994cf86------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest StackOverflow Activity
