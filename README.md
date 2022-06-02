@@ -2,15 +2,23 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Bassem, a full-stack freelance 👨🏻‍💻 Software Engineer, 👨🏻‍🎨 Designer & 👨‍✈️ Airline Pilot.</div>
+### <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Bassem, a full-stack freelance 👨🏻‍💻 Software Engineer, 👨🏻‍🎨 Designer & 👨‍✈️ Airline Pilot.</div>
 
-This is the place where I opensource stuff and break things :rofl:
+This is the place where I open source stuff and break things :rofl:
 
-- 🔭 I’m currently working for [Coradine](https://github.com/coradine)
+- 🔭 I’m a Senior Freelance Full-Stack Engineer
 
-- 🌱 I’m currently learning about some advanced frontend/backend technologies as well as AI / Machine Learning
+- 🌱 Currently learning about some advanced frontend/backend technologies as well as AI / Machine Learning
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- 📝 Regularly writing programming-related content on [Medium](https://nextglabs.medium.com)
+
+- 👨🏻‍🏫 Teaching Web Development at [DevHaus Leipzig](https://devhausleipzig.de/)
+
+- 🌐 Open-sourced my own personal website ➡️ [nextglabs.com (Live)](https://nextglabs.com) | [Source](https://github.com/nextglabs/nextglabs)
+
+- ⭐ Creating a new course for intermediate-advanced web developers. Stay tuned!
+
+- ❓ Ask me about anything about UI/UX and related web development technologies
 
 - ⚡ Fun fact: I use tabs over spaces
 
@@ -116,13 +124,13 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://github.com/nextglabs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/nextglabs" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://nextglabs.medium.com" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/pilot.allani" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/5069505/bassem" target="_blank">
+<a href="https://stackoverflow.com/users/5069505/bassem" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>
