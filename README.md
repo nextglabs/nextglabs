@@ -146,11 +146,11 @@ This is the place where I open source stuff and break things :rofl:
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Someone Truly Become a Senior Full-Stack Web Developer?](https://javascript.plainenglish.io/can-someone-truly-become-a-senior-full-stack-web-developer-f5c605b2eb24?source=rss-f2412994cf86------2)
 - [React vs. Vue.js: Which One is Better for Learning Web Development?](https://javascript.plainenglish.io/react-vs-vue-js-which-one-is-better-for-learning-web-development-4e28fc502e44?source=rss-f2412994cf86------2)
 - [How to Get Fired as a Software Engineer, Fast.](https://javascript.plainenglish.io/how-to-get-fired-as-a-software-engineer-fast-e99e6fe0d908?source=rss-f2412994cf86------2)
 - [We choose React &amp; TypeScript not because they’re easy, but because they’re hard.](https://medium.com/next-generation-web/we-choose-react-typescript-not-because-theyre-easy-but-because-they-re-hard-d198a04b2bc6?source=rss-f2412994cf86------2)
 - [Style Guides, Design Systems &amp; Component Libraries — Explained](https://medium.com/next-generation-web/style-guides-design-systems-component-libraries-explained-118e79476305?source=rss-f2412994cf86------2)
-- [Create a Dark Mode Toggle Micro Interaction Like a Pro](https://medium.com/next-generation-web/create-a-dark-mode-toggle-micro-interaction-like-a-pro-279305e9c2?source=rss-f2412994cf86------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest StackOverflow Activity
