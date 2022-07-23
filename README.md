@@ -146,11 +146,11 @@ This is the place where I open source stuff and break things :rofl:
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On-demand Incremental Static Regeneration with Next.js &amp; Hygraph](https://javascript.plainenglish.io/on-demand-incremental-static-regeneration-with-next-js-hygraph-3ed325fa5b?source=rss-f2412994cf86------2)
 - [Become the Worst Software Engineer Ever: A Humorous Take](https://javascript.plainenglish.io/become-the-worst-software-engineer-ever-a-humorous-take-c4d9eb3fc492?source=rss-f2412994cf86------2)
 - [Can Someone Truly Become a Senior Full-Stack Web Developer?](https://javascript.plainenglish.io/can-someone-truly-become-a-senior-full-stack-web-developer-f5c605b2eb24?source=rss-f2412994cf86------2)
 - [React vs. Vue.js: Which One is Better for Learning Web Development?](https://javascript.plainenglish.io/react-vs-vue-js-which-one-is-better-for-learning-web-development-4e28fc502e44?source=rss-f2412994cf86------2)
 - [How to Get Fired as a Software Engineer, Fast.](https://javascript.plainenglish.io/how-to-get-fired-as-a-software-engineer-fast-e99e6fe0d908?source=rss-f2412994cf86------2)
-- [We choose React &amp; TypeScript not because they’re easy, but because they’re hard.](https://medium.com/next-generation-web/we-choose-react-typescript-not-because-theyre-easy-but-because-they-re-hard-d198a04b2bc6?source=rss-f2412994cf86------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest StackOverflow Activity
