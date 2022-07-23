@@ -14,11 +14,11 @@ This is the place where I open source stuff and break things :rofl:
 
 - 👨🏻‍🏫 Teaching Web Development at [DevHaus Leipzig](https://devhausleipzig.de/)
 
-- 🌐 Open-sourced my own personal website ➡️ [nextglabs.com (Live)](https://nextglabs.com) | [Source](https://github.com/nextglabs/nextglabs)
+- 🌐 Open-sourced my own personal website ➡️ [nextglabs.com (Live)](https://nextglabs.com) | [Source](https://github.com/nextglabs/nextglabs.com)
 
 - ⭐ Creating a new course for intermediate-advanced web developers. Stay tuned!
 
-- ❓ Ask me about anything about UI/UX and related web development technologies
+- ❓ Ask me about anything about UI/UX and related web development technologies (or about aviation 👨🏼‍✈️)
 
 - ⚡ Fun fact: I use tabs over spaces
 
