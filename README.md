@@ -156,11 +156,11 @@ This is the place where I open source stuff and break things :rofl:
 ## Latest StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Bassem for How to pass the params to the getInitialProps method in _app.js file in next js from the url](https://stackoverflow.com/questions/76355862/how-to-pass-the-params-to-the-getinitialprops-method-in-app-js-file-in-next-js/76355910#76355910)
 - [Answer by Bassem for yarn command not found after installing via npm](https://stackoverflow.com/questions/65926128/yarn-command-not-found-after-installing-via-npm/71102115#71102115)
 - [Answer by Bassem for Get Folder path using React js](https://stackoverflow.com/questions/70848650/get-folder-path-using-react-js/70848708#70848708)
 - [GraphQL Code Gen - React Query Referenced Types](https://stackoverflow.com/questions/70672211/graphql-code-gen-react-query-referenced-types)
 - [Answer by Bassem for React hide menu and footer in a specific page](https://stackoverflow.com/questions/69315984/react-hide-menu-and-footer-in-a-specific-page/69316207#69316207)
-- [Answer by Bassem for React JS sorting issue](https://stackoverflow.com/questions/69315921/react-js-sorting-issue/69315999#69315999)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
