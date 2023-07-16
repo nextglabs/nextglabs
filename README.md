@@ -156,11 +156,11 @@ This is the place where I open source stuff and break things :rofl:
 ## Latest StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Bassem for How to handle error validation message with nested object in React Hook Form](https://stackoverflow.com/questions/76692908/how-to-handle-error-validation-message-with-nested-object-in-react-hook-form/76693088#76693088)
+- [Answer by Bassem for MUI Text fields label and default value are superposing](https://stackoverflow.com/questions/76688601/mui-text-fields-label-and-default-value-are-superposing/76688881#76688881)
 - [How to test pasted content when using `useClipboard` hook in ChakraUI](https://stackoverflow.com/questions/76627868/how-to-test-pasted-content-when-using-useclipboard-hook-in-chakraui)
 - [Answer by Bassem for Will updated prop values in the `useSelector` callback be used when they change?](https://stackoverflow.com/questions/76535828/will-updated-prop-values-in-the-useselector-callback-be-used-when-they-change/76535856#76535856)
 - [Answer by Bassem for How do integrate amplitude analytics with a React app?](https://stackoverflow.com/questions/39823648/how-do-integrate-amplitude-analytics-with-a-react-app/76414011#76414011)
-- [Answer by Bassem for Occasional Amplitude &quot;Invalid apiKey&quot;](https://stackoverflow.com/questions/61256584/occasional-amplitude-invalid-apikey/76407655#76407655)
-- [Answer by Bassem for How to pass the params to the getInitialProps method in _app.js file in next js from the url](https://stackoverflow.com/questions/76355862/how-to-pass-the-params-to-the-getinitialprops-method-in-app-js-file-in-next-js/76355910#76355910)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
