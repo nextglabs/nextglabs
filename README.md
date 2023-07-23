@@ -156,11 +156,11 @@ This is the place where I open source stuff and break things :rofl:
 ## Latest StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Bassem for Req.body Destructuring problem in react js](https://stackoverflow.com/questions/76731330/req-body-destructuring-problem-in-react-js/76731393#76731393)
+- [Answer by Bassem for Prettier 3.0.0 TypeError: prettier.resolveConfig.sync is not a function](https://stackoverflow.com/questions/76624993/prettier-3-0-0-typeerror-prettier-resolveconfig-sync-is-not-a-function/76697559#76697559)
 - [Answer by Bassem for How to handle error validation message with nested object in React Hook Form](https://stackoverflow.com/questions/76692908/how-to-handle-error-validation-message-with-nested-object-in-react-hook-form/76693088#76693088)
 - [Answer by Bassem for MUI Text fields label and default value are superposing](https://stackoverflow.com/questions/76688601/mui-text-fields-label-and-default-value-are-superposing/76688881#76688881)
 - [How to test pasted content when using `useClipboard` hook in ChakraUI](https://stackoverflow.com/questions/76627868/how-to-test-pasted-content-when-using-useclipboard-hook-in-chakraui)
-- [Answer by Bassem for Will updated prop values in the `useSelector` callback be used when they change?](https://stackoverflow.com/questions/76535828/will-updated-prop-values-in-the-useselector-callback-be-used-when-they-change/76535856#76535856)
-- [Answer by Bassem for How do integrate amplitude analytics with a React app?](https://stackoverflow.com/questions/39823648/how-do-integrate-amplitude-analytics-with-a-react-app/76414011#76414011)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
