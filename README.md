@@ -138,7 +138,7 @@ This is the place where I open source stuff and break things :rofl:
 
 ## Github Stats
 
-<div align="center"><img src="https://nextglabs-github-stats.vercel.app/api?username=nextglabs&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy" align="center" /></div>
+<div align="center"><img src="https://nextglabs-readme-stats.vercel.app/api?theme=buefy" align="center" /></div>
 
 <br/>
 
