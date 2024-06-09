@@ -145,11 +145,11 @@ This is the place where I open source stuff and break things :rofl:
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When a Backend Developer Works As A Frontend Developer](https://nextglabs.medium.com/when-a-backend-developer-works-as-a-frontend-developer-2209ec243d67?source=rss-f2412994cf86------2)
-- [MaterialUI is a tech debt for scalable front-end applications.](https://nextglabs.medium.com/materialui-is-a-tech-debt-for-scalable-front-end-applications-4412c81ec9ee?source=rss-f2412994cf86------2)
-- [The Cost of Control: How an Authoritarian CTO Nearly Bankrupted a Startup](https://nextglabs.medium.com/the-cost-of-control-how-an-authoritarian-cto-nearly-bankrupted-a-startup-7b2cd6b702e8?source=rss-f2412994cf86------2)
-- [This Life Hack Will Save You a Few Years on the Web](https://nextglabs.medium.com/this-life-hack-will-save-you-a-few-years-on-the-web-eb10f70872ef?source=rss-f2412994cf86------2)
-- [On-demand Incremental Static Regeneration with Next.js &amp; Hygraph](https://nextglabs.medium.com/on-demand-incremental-static-regeneration-with-next-js-hygraph-3ed325fa5b?source=rss-f2412994cf86------2)
+- [When a Backend Developer Works As A Frontend Developer](https://javascript.plainenglish.io/when-a-backend-developer-works-as-a-frontend-developer-2209ec243d67?source=rss-f2412994cf86------2)
+- [MaterialUI is a tech debt for scalable front-end applications.](https://javascript.plainenglish.io/materialui-is-a-tech-debt-for-scalable-front-end-applications-4412c81ec9ee?source=rss-f2412994cf86------2)
+- [The Cost of Control: How an Authoritarian CTO Nearly Bankrupted a Startup](https://medium.com/venturehq/the-cost-of-control-how-an-authoritarian-cto-nearly-bankrupted-a-startup-7b2cd6b702e8?source=rss-f2412994cf86------2)
+- [This Life Hack Will Save You a Few Years on the Web](https://javascript.plainenglish.io/this-life-hack-will-save-you-a-few-years-on-the-web-eb10f70872ef?source=rss-f2412994cf86------2)
+- [On-demand Incremental Static Regeneration with Next.js &amp; Hygraph](https://javascript.plainenglish.io/on-demand-incremental-static-regeneration-with-next-js-hygraph-3ed325fa5b?source=rss-f2412994cf86------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest StackOverflow Activity
