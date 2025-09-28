@@ -155,11 +155,11 @@ This is the place where I open source stuff and break things :rofl:
 ## Latest StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [How to achieve this Avatar glass effect in SwiftUI on iOS26?](https://stackoverflow.com/questions/79771526/how-to-achieve-this-avatar-glass-effect-in-swiftui-on-ios26)
 - [Answer by Bassem for Weird CSS z-Index behavior on iOS browsers](https://stackoverflow.com/questions/79503885/weird-css-z-index-behavior-on-ios-browsers/79503929#79503929)
 - [Weird CSS z-Index behavior on iOS browsers](https://stackoverflow.com/questions/79503885/weird-css-z-index-behavior-on-ios-browsers)
 - [Answer by Bassem for Req.body Destructuring problem in react js](https://stackoverflow.com/questions/76731330/req-body-destructuring-problem-in-react-js/76731393#76731393)
 - [Answer by Bassem for Prettier 3.0.0 TypeError: prettier.resolveConfig.sync is not a function](https://stackoverflow.com/questions/76624993/prettier-3-0-0-typeerror-prettier-resolveconfig-sync-is-not-a-function/76697559#76697559)
-- [Answer by Bassem for How to handle error validation message with nested object in React Hook Form](https://stackoverflow.com/questions/76692908/how-to-handle-error-validation-message-with-nested-object-in-react-hook-form/76693088#76693088)
 <!-- STACKOVERFLOW:END -->
 
 <br/>
